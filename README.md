@@ -19,12 +19,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveedahmeddev&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&ring_color=64FFDA" alt="Naveed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedahmeddev&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveedahmeddev&show_icons=true&hide_border=true&bg_color=697ABF&title_color=0A192F&icon_color=0A192F&text_color=10172A&ring_color=0A192F" alt="Naveed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedahmeddev&layout=compact&hide_border=true&bg_color=697ABF&title_color=0A192F&text_color=10172A" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveedahmeddev&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&currStreakNum=64FFDA&sideNums=64FFDA&sideLabels=CCD6F6&dates=8892B0&stroke=233554" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=naveedahmeddev&hide_border=true&background=697ABF&ring=0A192F&fire=0A192F&currStreakLabel=0A192F&currStreakNum=0A192F&sideNums=0A192F&sideLabels=10172A&dates=233554&stroke=54639E" alt="GitHub streak" />
 </p>
 
 ## 🚀 What I Build With
