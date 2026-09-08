@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/naveedahmeddev" width="130" alt="Naveed Ahmed" />
-
 # Hi, I'm Naveed Ahmed 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+AI+workflows+%40+Vixul;Computer+Engineering+%40+Habib+University;AI-native+developer+%E2%80%94+fast%2C+with+guardrails" alt="Building AI workflows @ Vixul · Computer Engineering @ Habib University" />
