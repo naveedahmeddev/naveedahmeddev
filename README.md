@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Naveed Ahmed 👋</h1>
-<h3 align="center">Building AI workflows @ Vixul &nbsp;·&nbsp; Computer Engineering @ Habib University</h3>
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/naveedahmeddev" width="130" alt="Naveed Ahmed" />
+
+# Hi, I'm Naveed Ahmed 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+AI+workflows+%40+Vixul;Computer+Engineering+%40+Habib+University;AI-native+developer+%E2%80%94+fast%2C+with+guardrails" alt="Building AI workflows @ Vixul · Computer Engineering @ Habib University" />
+
+</div>
 
 ---
 
@@ -9,42 +16,43 @@
 - ☁️ The stack under it: **Python Lambdas** behind API Gateway, deployed with **AWS SAM & CDK**, an analytics warehouse on **S3 + Glue + Athena**, **Supabase/Postgres**, and vector search with **Pinecone**
 - 🎮 Before all that: built **NAVEEDIA** — a hardware-accelerated 3D racing game written from scratch in **Verilog** on an Artix-7 FPGA
 - 🧠 Interested in **AI, Machine Learning, and Robotics**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-87042) or at **naveed@vixul.com**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-87042026b) or at **naveedahmedofficial2@gmail.com**
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveedahmeddev&show_icons=true&theme=tokyonight&hide_border=true" alt="Naveed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedahmeddev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naveedahmeddev&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&ring_color=64FFDA" alt="Naveed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedahmeddev&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedahmeddev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=naveedahmeddev&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&currStreakNum=CCD6F6&sideNums=CCD6F6&sideLabels=8892B0&dates=8892B0&stroke=233554" alt="GitHub streak" />
 </p>
 
 ## 🚀 What I Build With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-0A192F?style=for-the-badge&logo=claude&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/AWS-0A192F?style=for-the-badge&logo=amazonwebservices&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-0A192F?style=for-the-badge&logo=awslambda&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Supabase-0A192F?style=for-the-badge&logo=supabase&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Airtable-0A192F?style=for-the-badge&logo=airtable&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Verilog-0A192F?style=for-the-badge&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA" />
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveed-ahmed-87042">
+  <a href="https://www.linkedin.com/in/naveed-ahmed-87042026b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:naveed@vixul.com">
+  <a href="mailto:naveedahmedofficial2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
