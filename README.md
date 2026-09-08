@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveedahmeddev&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&currStreakNum=CCD6F6&sideNums=CCD6F6&sideLabels=8892B0&dates=8892B0&stroke=233554" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=naveedahmeddev&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&currStreakNum=64FFDA&sideNums=64FFDA&sideLabels=CCD6F6&dates=8892B0&stroke=233554" alt="GitHub streak" />
 </p>
 
 ## 🚀 What I Build With
