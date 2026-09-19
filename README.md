@@ -8,11 +8,11 @@
 
 ---
 
-- 🤖 I build **AI-powered workflows and automations** at **Vixul** — mostly for the marketing team: content pipelines, LinkedIn integrations, analytics, and reporting that used to be manual work
-- ⚡ I'm an **AI-native developer** — I pair with Claude and AI tools to ship fast, and use every build to go deeper into the stack: how the backend, frontend, and database actually fit together
-- 🛡️ Speed with **guardrails** — code review, CI, tests, and staged deploys on everything that ships; fast doesn't mean careless
+- 🤖 I build **AI-powered workflows and automations** at **Vixul** - mostly for the marketing team: content pipelines, LinkedIn integrations, analytics, and reporting that used to be manual work
+- ⚡ I'm an **AI-native developer** - I pair with Claude and AI tools to ship fast, and use every build to go deeper into the stack: how the backend, frontend, and database actually fit together
+- 🛡️ Speed with **guardrails** - code review, CI, tests, and staged deploys on everything that ships; fast doesn't mean careless
 - ☁️ The stack under it: **Python Lambdas** behind API Gateway, deployed with **AWS SAM & CDK**, an analytics warehouse on **S3 + Glue + Athena**, **Supabase/Postgres**, and vector search with **Pinecone**
-- 🎮 Before all that: built **NAVEEDIA** — a hardware-accelerated 3D racing game written from scratch in **Verilog** on an Artix-7 FPGA
+- 🎮 Before all that: built **NAVEEDIA** - a hardware-accelerated 3D racing game written from scratch in **Verilog** on an Artix-7 FPGA
 - 🧠 Interested in **AI, Machine Learning, and Robotics**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-87042026b) or at **naveedahmedofficial2@gmail.com**
 
