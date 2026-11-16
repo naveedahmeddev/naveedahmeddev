@@ -29,7 +29,6 @@
 ## 🚀 What I Build With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-001F3F?style=for-the-badge&logo=claude&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/Python-001F3F?style=for-the-badge&logo=python&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/AWS-001F3F?style=for-the-badge&logo=amazonwebservices&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/AWS_Lambda-001F3F?style=for-the-badge&logo=awslambda&logoColor=64FFDA" />
@@ -38,6 +37,8 @@
   <img src="https://img.shields.io/badge/Airtable-001F3F?style=for-the-badge&logo=airtable&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/Playwright-001F3F?style=for-the-badge&logo=playwright&logoColor=64FFDA" />
   <img src="https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=64FFDA" />
+  <img src="https://img.shields.io/badge/Claude-001F3F?style=for-the-badge&logo=claude&logoColor=64FFDA" />
+
 </p>
 
 ## 🤝 Connect With Me
