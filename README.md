@@ -8,11 +8,10 @@
 
 ---
 
-- 🤖 I build **AI-powered workflows and automations** at **Vixul** - mostly for the marketing team: content pipelines, LinkedIn integrations, analytics, and reporting that used to be manual work
-- ⚡ I'm an **AI-native developer** - I pair with Claude and AI tools to ship fast, and use every build to go deeper into the stack: how the backend, frontend, and database actually fit together
+- ⚡ I'm an **AI-native developer** , I build **AI-powered workflows and automations** at **Vixul** - mostly for the marketing team. I work on content pipelines, LinkedIn integrations, analytics, and reporting. Which used to be manual work. 
 - 🛡️ Speed with **guardrails** - code review, CI, tests, and staged deploys on everything that ships; fast doesn't mean careless
-- ☁️ The stack under it: **Python Lambdas** behind API Gateway, deployed with **AWS SAM & CDK**, an analytics warehouse on **S3 + Glue + Athena**, **Supabase/Postgres**, and vector search with **Pinecone**
-- 🎮 Before all that: built **NAVEEDIA** - a hardware-accelerated 2D racing game written from scratch in **Verilog** on an Artix-7 FPGA with my class fellows, Muhammad Zain Ul Abideen, Syed Muhammad Hani and Syed Ayan Rizvi, in Digital Logic and Design(DLD) course. 
+- ☁️ The stack under I usually work with is **Python Lambdas** behind API Gateway, deployed with **AWS SAM & CDK**, an analytics warehouse on **S3 + Glue + Athena**, **Supabase/Postgres**, and vector search with **Pinecone**
+- 🎮 Before all that I built **NAVEEDIA** - a hardware-accelerated 2D racing game written from scratch in **Verilog** on an Artix-7 FPGA with my class fellows, Muhammad Zain Ul Abideen, Syed Muhammad Hani and Syed Ayan Rizvi, in Digital Logic and Design(DLD) course. 
 - 🧠 Interested in **AI, Machine Learning, and Robotics**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-87042026b) or at **naveedahmedofficial2@gmail.com**
 
